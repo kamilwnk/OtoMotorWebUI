@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="OtoMotorDto">
+      <HintPath>..\..\Dto\OtoMotorDto\bin\Debug\netcoreapp3.1\OtoMotorDto.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
